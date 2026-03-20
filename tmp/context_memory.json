@@ -1,0 +1,14 @@
+{
+  "entities": [
+    {
+      "name": "note_20260125_074415",
+      "type": "note",
+      "observations": [
+        "oaisenv context 기능 추가 완료"
+      ],
+      "created": "2026-01-25T07:44:15.454014",
+      "updated": "2026-01-25T07:44:15.454019"
+    }
+  ],
+  "relations": []
+}
